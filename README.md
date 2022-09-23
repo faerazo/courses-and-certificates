@@ -34,7 +34,7 @@ DataCamp provides different career tracks. They consist in a set of courses that
 24. Unsupervised Learning in Python
 25. Machine Learning with Tree=Based Models in Python
 
-### Career Track: Machine Learning Scientist with Python
+### [Career Track: Machine Learning Scientist with Python](https://github.com/faerazo/data-science-and-programming-courses/blob/ba9df85dcf0aa7bb644aa4cab0f154769ad7fa88/DataCamp/Machine%20Learning%20Scientist%20with%20Python.pdf)
 1. Supervised Learning with Scikit-Learn
 2. Unsupervised Learning in Python
 3. Linear Classifiers in Python
@@ -59,7 +59,7 @@ DataCamp provides different career tracks. They consist in a set of courses that
 22. Machine Learning with PySpark
 23. Winning a Kaggle Competition in Python
 
-### Career Track: Python Programmer
+### [Career Track: Python Programmer](https://github.com/faerazo/data-science-and-programming-courses/blob/ba9df85dcf0aa7bb644aa4cab0f154769ad7fa88/DataCamp/Python%20Programmer.pdf)
 1. Introduction to Data Science in Python
 2. Data Manipulation with Pandas
 3. Python Data Science Toolbox (Part 1)
@@ -76,7 +76,7 @@ DataCamp provides different career tracks. They consist in a set of courses that
 14. Unit Testing for Data Science in Python
 15. Object-Oriented Programming in Python
 
-### Career Track: Data Engineer with Python
+### [Career Track: Data Engineer with Python](https://github.com/faerazo/data-science-and-programming-courses/blob/ba9df85dcf0aa7bb644aa4cab0f154769ad7fa88/DataCamp/Data%20Engineer%20with%20Python.pdf)
 1. Understanding Data Engineering
 2. Introduction to Data Engineering
 3. Stramlined Data Ingestion with Pandas
@@ -97,7 +97,7 @@ DataCamp provides different career tracks. They consist in a set of courses that
 18. Cleaning Data with PySpark
 19. Introduction to MongoDB in Python
 
-### Career Track: Data Analyst with Python
+### [Career Track: Data Analyst with Python](https://github.com/faerazo/data-science-and-programming-courses/blob/ba9df85dcf0aa7bb644aa4cab0f154769ad7fa88/DataCamp/Data%20Analyst%20with%20Python.pdf)
 1. Introduction to Data Science in Python
 2. Intermediate Python
 3. Data Manipulation with Pandas
@@ -121,7 +121,7 @@ DataCamp provides different career tracks. They consist in a set of courses that
 10. Data-Driven Decision Making in SQL
 11. Data Communication Concepts
 
-### Career Track: Data Analyst in Power BI 
+### [Career Track: Data Analyst in Power BI](https://github.com/faerazo/data-science-and-programming-courses/blob/ba9df85dcf0aa7bb644aa4cab0f154769ad7fa88/DataCamp/Data%20Analyst%20in%20Power%20BI.pdf)
 1. Introduction to Power BI
 2. Introduction to DAX in Power BI
 3. Data Visualization in Power BI
