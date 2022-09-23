@@ -121,6 +121,25 @@ DataCamp provides several career tracks. They consist in a set of courses that a
 10. Data-Driven Decision Making in SQL
 11. Data Communication Concepts
 
+### Career Track: Data Analyst in Power BI 
+1. Introduction to Power BI
+2. Introduction to DAX in Power BI
+3. Data Visualization in Power BI
+4. Case Study: Analyzing Job Market Data in Power BI
+5. Case Study: Analyzing Customer Churn in Power BI
+6. Data Preparation in Power BI
+7. Data Transformation in Power BI
+8. Data Modeling in Power BI
+9. Intermediate Data Modeling in Power BI
+10. DAX Functions in Power BI
+11. Intermediate DAX in Power BI
+12. User-Oriented Design in Power BI
+13. Exploratory Data Analysis in Power BI
+14. Trend Analysis in Power BI
+15. Reports in Power BI
+16. Report Design in Power BI
+17. Data Connections in Power BI
+18. Deployinh and Maintaning Assets in Power BI
 
 ## Linkedin Learning
 
