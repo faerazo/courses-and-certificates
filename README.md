@@ -5,9 +5,9 @@
 This repository contains the statements of accomplishment for all courses in data science and programming that I've taken on several education platforms.
 
 ## DataCamp
-DataCamp provides several career tracks. They consist in a set of courses that allows users to develop specific skills in Data Science, Data Analytics, Data Engineering, Machine Learning, and Data Visualization.
+DataCamp provides different career tracks. They consist in a set of courses that allows users to develop specific skills in Data Science, Data Analytics, Data Engineering, Machine Learning, and Data Visualization.
 
-### Career Track: Data Scientist with Python 
+### [Career Track: Data Scientist with Python](DataCamp/Data Scientist with Python.pdf)
 1. Introduction to Python
 2. Intermediate Python
 3. Data Manipulation with Pandas
