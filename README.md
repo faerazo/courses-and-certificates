@@ -141,7 +141,7 @@ DataCamp provides different career tracks. They consist in a set of courses that
 17. Data Connections in Power BI
 18. Deployinh and Maintaning Assets in Power BI
 
-## Linkedin Learning
+## [Linkedin Learning](https://github.com/faerazo/data-science-and-programming-courses/blob/db66de6e89063652e5c19e8fe53179b5ede78f7d/Linkedin%20Learning/)
 
 ### Courses
 1. Succeding in DevOps
