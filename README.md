@@ -4,7 +4,7 @@
 ## Introduction
 This repository contains the statements of accomplishment for all courses in data science and programming that I've taken on several education platforms.
 
-## DataCamp
+## [DataCamp](https://github.com/faerazo/data-science-and-programming-courses/blob/38ce48b17e6c29e77aac817af2aab6c4f42104ab/DataCamp/)
 DataCamp provides different career tracks. They consist in a set of courses that allows users to develop specific skills in Data Science, Data Analytics, Data Engineering, Machine Learning, and Data Visualization.
 
 ### [Career Track: Data Scientist with Python](https://github.com/faerazo/data-science-and-programming-courses/blob/38ce48b17e6c29e77aac817af2aab6c4f42104ab/DataCamp/Data%20Scientist%20with%20Python.pdf)
@@ -153,7 +153,7 @@ DataCamp provides different career tracks. They consist in a set of courses that
 1. A Day in the Life of a Data Scientist
 2. The Non-Technical Skills of Effective Data Scientist
 
-## Coursera 
+## [Coursera](https://github.com/faerazo/data-science-and-programming-courses/blob/db66de6e89063652e5c19e8fe53179b5ede78f7d/Coursera/) 
 ### Courses
 1. Introduction to Data Analytics
 2. Excel Basics for Data Analysis 
