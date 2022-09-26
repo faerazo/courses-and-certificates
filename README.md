@@ -2,7 +2,7 @@
 # Data Science and Programming Courses 💻
 
 ## Introduction
-This repository contains the statements of accomplishment for all courses in data science and programming that I've taken on several education platforms.
+This repository contains the statements of accomplishment for all courses in data science and programming that I've completed on several education platforms.
 
 ## [DataCamp](https://github.com/faerazo/data-science-and-programming-courses/blob/38ce48b17e6c29e77aac817af2aab6c4f42104ab/DataCamp/)
 DataCamp provides different career tracks. They consist in a set of courses that allows users to develop specific skills in Data Science, Data Analytics, Data Engineering, Machine Learning, and Data Visualization.
@@ -139,7 +139,7 @@ DataCamp provides different career tracks. They consist in a set of courses that
 15. Reports in Power BI
 16. Report Design in Power BI
 17. Data Connections in Power BI
-18. Deployinh and Maintaning Assets in Power BI
+18. Deploying and Maintaning Assets in Power BI
 
 ## [Linkedin Learning](https://github.com/faerazo/data-science-and-programming-courses/blob/db66de6e89063652e5c19e8fe53179b5ede78f7d/Linkedin%20Learning/)
 
@@ -155,6 +155,6 @@ DataCamp provides different career tracks. They consist in a set of courses that
 
 ## [Coursera](https://github.com/faerazo/data-science-and-programming-courses/blob/db66de6e89063652e5c19e8fe53179b5ede78f7d/Coursera/) 
 ### Courses
-1. Introduction to Data Analytics
-2. Excel Basics for Data Analysis 
-3. Foundatations: Data Everywhere
+1. Introduction to Data Analytics - IBM
+2. Excel Basics for Data Analysis - IBM
+3. Foundations: Data, Data, Everywhere - Google
