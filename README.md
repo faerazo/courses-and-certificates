@@ -108,7 +108,7 @@ DataCamp provides different career tracks. They consist in a set of courses that
 8. Sampling in Python
 9. Hypothesis Testing in Python
 
-### Career Track: Data Analyst in SQL
+### [Career Track: Data Analyst in SQL](https://github.com/faerazo/data-science-and-programming-courses/blob/83d5636cfda61815be001ee23cb6d07c749dd93b/DataCamp/Data%20Analyst%20in%20SQL.pdf)
 1. Understanding Data Visualization
 2. Introduction to Statistics
 3. Introduction to SQL
