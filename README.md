@@ -2,7 +2,7 @@
 # Data Science and Programming Courses 💻
 
 ## Introduction
-This repository contains the statements of accomplishment for all courses in data science and programming that I've completed on several education platforms.
+This repository contains the statements of accomplishment for all courses in data science and programming that I've completed on DataCamp.
 
 ## [DataCamp](https://github.com/faerazo/data-science-and-programming-courses/blob/38ce48b17e6c29e77aac817af2aab6c4f42104ab/DataCamp/)
 DataCamp provides different career tracks. They consist in a set of courses that allows users to develop specific skills in Data Science, Data Analytics, Data Engineering, Machine Learning, and Data Visualization.
