@@ -140,21 +140,3 @@ DataCamp provides different career tracks. They consist in a set of courses that
 16. Report Design in Power BI
 17. Data Connections in Power BI
 18. Deploying and Maintaning Assets in Power BI
-
-## [Linkedin Learning](https://github.com/faerazo/data-science-and-programming-courses/blob/db66de6e89063652e5c19e8fe53179b5ede78f7d/Linkedin%20Learning/)
-
-### Courses
-1. Succeding in DevOps
-2. Telling Stories with Data
-3. Data Strategy
-4. Balanced Scorecard and Key Performance Indicators
-
-### Learning Path: Become a Data Scientist
-1. A Day in the Life of a Data Scientist
-2. The Non-Technical Skills of Effective Data Scientist
-
-## [Coursera](https://github.com/faerazo/data-science-and-programming-courses/blob/db66de6e89063652e5c19e8fe53179b5ede78f7d/Coursera/) 
-### Courses
-1. Introduction to Data Analytics - IBM
-2. Excel Basics for Data Analysis - IBM
-3. Foundations: Data, Data, Everywhere - Google
