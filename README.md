@@ -1,6 +1,6 @@
-
-# Data Science and Programming Courses 💻
-![Alt text](https://github.com/faerazo/courses-and-certificates/blob/main/Banner.png "Optional title")
+<p align="center">
+  <img src="https://github.com/faerazo/courses-and-certificates/blob/main/Banner.png"/>
+</p>
 
 ## Introduction
 This repository contains the statements of accomplishment for all courses in data science and programming that I've completed on DataCamp and Udemy. 
@@ -8,7 +8,7 @@ This repository contains the statements of accomplishment for all courses in dat
 DataCamp provides different career tracks. They consist in a set of courses that allows users to develop specific skills in Data Science, Data Analytics, Data Engineering, Machine Learning, and Data Visualization.
 
 ## Udemy
-### The Data Science Course: Complete Data Science Bootcamp
+### [The Data Science Course: Complete Data Science Bootcamp](https://github.com/faerazo/courses-and-certificates/blob/main/Complete%20DS%20Bootcamp%202023.pdf)
 
 ## DataCamp
 ### [Career Track: Data Scientist with Python](https://github.com/faerazo/data-science-and-programming-courses/blob/44d109ae2e067e4252fe689979d2206ac4bee466/Data%20Scientist%20with%20Python.pdf)
