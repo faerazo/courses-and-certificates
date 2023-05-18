@@ -1,5 +1,6 @@
 
 # Data Science and Programming Courses 💻
+![Alt text](https://github.com/faerazo/courses-and-certificates/blob/main/Banner.png "Optional title")
 
 ## Introduction
 This repository contains the statements of accomplishment for all courses in data science and programming that I've completed on DataCamp and Udemy. 
