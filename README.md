@@ -3,15 +3,15 @@
 </p>
 
 ## Introduction
-This repository contains the statements of accomplishment for all courses in data science and programming that I've completed on DataCamp and Udemy. 
+This repository contains the statements of accomplishment for all data science and programming courses that I've completed on DataCamp and Udemy. 
 
-DataCamp provides different career tracks. They consist in a set of courses that allows users to develop specific skills in Data Science, Data Analytics, Data Engineering, Machine Learning, and Data Visualization.
+DataCamp provides different career tracks. They consist of courses that allow users to develop specific skills in Data Science, Data Analytics, Data Engineering, Machine Learning, and Data Visualization.
 
 ## Udemy
-### [The Data Science Course: Complete Data Science Bootcamp](https://github.com/faerazo/courses-and-certificates/blob/main/Complete%20DS%20Bootcamp%202023.pdf)
+### [The Data Science Course: Complete Data Science Bootcamp (32 hours)](https://github.com/faerazo/courses-and-certificates/blob/main/Complete%20DS%20Bootcamp%202023.pdf)
 
 ## DataCamp
-### [Career Track: Data Scientist with Python](https://github.com/faerazo/data-science-and-programming-courses/blob/44d109ae2e067e4252fe689979d2206ac4bee466/Data%20Scientist%20with%20Python.pdf)
+### [Career Track: Data Scientist with Python (96 hours)](https://github.com/faerazo/data-science-and-programming-courses/blob/44d109ae2e067e4252fe689979d2206ac4bee466/Data%20Scientist%20with%20Python.pdf)
 1. Introduction to Python
 2. Intermediate Python
 3. Data Manipulation with Pandas
@@ -38,7 +38,7 @@ DataCamp provides different career tracks. They consist in a set of courses that
 24. Unsupervised Learning in Python
 25. Machine Learning with Tree=Based Models in Python
 
-### [Career Track: Machine Learning Scientist with Python](https://github.com/faerazo/data-science-and-programming-courses/blob/44d109ae2e067e4252fe689979d2206ac4bee466/Machine%20Learning%20Scientist%20with%20Python.pdf)
+### [Career Track: Machine Learning Scientist with Python (93 hours)](https://github.com/faerazo/data-science-and-programming-courses/blob/44d109ae2e067e4252fe689979d2206ac4bee466/Machine%20Learning%20Scientist%20with%20Python.pdf)
 1. Supervised Learning with Scikit-Learn
 2. Unsupervised Learning in Python
 3. Linear Classifiers in Python
@@ -63,7 +63,7 @@ DataCamp provides different career tracks. They consist in a set of courses that
 22. Machine Learning with PySpark
 23. Winning a Kaggle Competition in Python
 
-### [Career Track: Python Programmer](https://github.com/faerazo/data-science-and-programming-courses/blob/44d109ae2e067e4252fe689979d2206ac4bee466/Python%20Programmer.pdf)
+### [Career Track: Python Programmer (59 hours)](https://github.com/faerazo/data-science-and-programming-courses/blob/44d109ae2e067e4252fe689979d2206ac4bee466/Python%20Programmer.pdf)
 1. Introduction to Data Science in Python
 2. Data Manipulation with Pandas
 3. Python Data Science Toolbox (Part 1)
@@ -80,10 +80,10 @@ DataCamp provides different career tracks. They consist in a set of courses that
 14. Unit Testing for Data Science in Python
 15. Object-Oriented Programming in Python
 
-### [Career Track: Data Engineer with Python](https://github.com/faerazo/data-science-and-programming-courses/blob/44d109ae2e067e4252fe689979d2206ac4bee466/Data%20Engineer%20with%20Python.pdf)
+### [Career Track: Data Engineer with Python (73 hours)](https://github.com/faerazo/data-science-and-programming-courses/blob/44d109ae2e067e4252fe689979d2206ac4bee466/Data%20Engineer%20with%20Python.pdf)
 1. Understanding Data Engineering
 2. Introduction to Data Engineering
-3. Stramlined Data Ingestion with Pandas
+3. Streamlined Data Ingestion with Pandas
 4. Writing Efficient Python Code
 5. Writing Functions in Python
 6. Introduction to Shell
@@ -101,7 +101,7 @@ DataCamp provides different career tracks. They consist in a set of courses that
 18. Cleaning Data with PySpark
 19. Introduction to MongoDB in Python
 
-### [Career Track: Data Analyst with Python](https://github.com/faerazo/data-science-and-programming-courses/blob/44d109ae2e067e4252fe689979d2206ac4bee466/Data%20Analyst%20with%20Python.pdf)
+### [Career Track: Data Analyst with Python (36 hours)](https://github.com/faerazo/data-science-and-programming-courses/blob/44d109ae2e067e4252fe689979d2206ac4bee466/Data%20Analyst%20with%20Python.pdf)
 1. Introduction to Data Science in Python
 2. Intermediate Python
 3. Data Manipulation with Pandas
@@ -112,7 +112,7 @@ DataCamp provides different career tracks. They consist in a set of courses that
 8. Sampling in Python
 9. Hypothesis Testing in Python
 
-### [Career Track: Data Analyst in SQL](https://github.com/faerazo/data-science-and-programming-courses/blob/44d109ae2e067e4252fe689979d2206ac4bee466/Data%20Analyst%20in%20SQL.pdf)
+### [Career Track: Data Analyst in SQL (39 hours)](https://github.com/faerazo/data-science-and-programming-courses/blob/44d109ae2e067e4252fe689979d2206ac4bee466/Data%20Analyst%20in%20SQL.pdf)
 1. Understanding Data Visualization
 2. Introduction to Statistics
 3. Introduction to SQL
@@ -120,12 +120,12 @@ DataCamp provides different career tracks. They consist in a set of courses that
 5. Joining Data in SQL
 6. Data Manipulation in SQL
 7. PostgreSQL Summary Stats and Windows Functions
-8. Functions for Manipulationg Data in PostgreSQL
+8. Functions for Manipulating Data in PostgreSQL
 9. Exploratory Data Analysis in SQL
 10. Data-Driven Decision Making in SQL
 11. Data Communication Concepts
 
-### [Career Track: Data Analyst in Power BI](https://github.com/faerazo/data-science-and-programming-courses/blob/44d109ae2e067e4252fe689979d2206ac4bee466/Data%20Analyst%20in%20Power%20BI.pdf)
+### [Career Track: Data Analyst in Power BI (51 hours)](https://github.com/faerazo/data-science-and-programming-courses/blob/44d109ae2e067e4252fe689979d2206ac4bee466/Data%20Analyst%20in%20Power%20BI.pdf)
 1. Introduction to Power BI
 2. Introduction to DAX in Power BI
 3. Data Visualization in Power BI
@@ -143,4 +143,4 @@ DataCamp provides different career tracks. They consist in a set of courses that
 15. Reports in Power BI
 16. Report Design in Power BI
 17. Data Connections in Power BI
-18. Deploying and Maintaning Assets in Power BI
+18. Deploying and Maintaining Assets in Power BI
