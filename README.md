@@ -3,12 +3,31 @@
 </p>
 
 ## Introduction
-This repository contains the statements of accomplishment for all data science and programming courses that I've completed on DataCamp and Udemy. 
+This repository lists all data science and programming courses that I've completed at University and self-education platforms such as DataCamp and Udemy. 
 
-DataCamp provides different career tracks. They consist of courses that allow users to develop specific skills in Data Science, Data Analytics, Data Engineering, Machine Learning, and Data Visualization.
+## University
+
+### Stockholm University - Department of Mathematics (7.5 ECTS)
+1. Programming Techniques - DA2005
+
+### Malmö University - Department of Computer Science and Media Technology (7.5 ECTS)
+1. Programming in C# - DA204E
+
+### Lund University - Department of Statistics and Department of Economics (60 ECTS)
+1. Programming in R (3.5 ECTS)
+2. Machine Learning from a Regression Perspective (7.5 ECTS)
+3. Data Visualisation (4 ECTS)
+4. Working with Databases (3.5 ECTS)
+5. Advanced Machine Learning (7.5 ECTS)
+6. Legal Aspects of Data Analytics (4 ECTS)
+7. Deep Learning and Artificial Intelligence Methods (7.5 ECTS)
+8. Analytics-based Strategic Management (7.5 ECTS)
+9. Thesis: Classification of Premium and Non-Premium Products using XGBoost and Logistic Regression. An empirical study in the Food and Beverage Industry (15 ECTS)
 
 ## Udemy
 ### [The Data Science Course: Complete Data Science Bootcamp (32 hours)](https://github.com/faerazo/courses-and-certificates/blob/main/Complete%20DS%20Bootcamp%202023.pdf)
+
+### [Python for Machine Learning & Data Science Masterclass (44 hours)]
 
 ## DataCamp
 ### [Career Track: Data Scientist with Python (96 hours)](https://github.com/faerazo/data-science-and-programming-courses/blob/44d109ae2e067e4252fe689979d2206ac4bee466/Data%20Scientist%20with%20Python.pdf)
