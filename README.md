@@ -22,12 +22,12 @@ This repository lists all data science and programming courses that I've complet
 6. Legal Aspects of Data Analytics (4 ECTS)
 7. Deep Learning and Artificial Intelligence Methods (7.5 ECTS)
 8. Analytics-based Strategic Management (7.5 ECTS)
-9. Thesis: Classification of Premium and Non-Premium Products using XGBoost and Logistic Regression. An empirical study in the Food and Beverage Industry (15 ECTS)
+9. [Thesis: Classification of Premium and Non-Premium Products using XGBoost and Logistic Regression. An empirical study in the Food and Beverage Industry (15 ECTS)](https://lup.lub.lu.se/student-papers/search/publication/9087706)
 
 ## Udemy
 ### [The Data Science Course: Complete Data Science Bootcamp (32 hours)](https://github.com/faerazo/courses-and-certificates/blob/main/Complete%20DS%20Bootcamp%202023.pdf)
 
-### [Python for Machine Learning & Data Science Masterclass (44 hours)]
+### [Python for Machine Learning & Data Science Masterclass (44 hours)](https://github.com/faerazo/courses-and-certificates/blob/main/Python%20for%20Machine%20Learning%20and%20Data%20Science.pdf)
 
 ## DataCamp
 ### [Career Track: Data Scientist with Python (96 hours)](https://github.com/faerazo/data-science-and-programming-courses/blob/44d109ae2e067e4252fe689979d2206ac4bee466/Data%20Scientist%20with%20Python.pdf)
