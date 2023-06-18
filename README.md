@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/faerazo/courses-and-certificates/blob/main/Banner.png"/>
+  <img src="https://github.com/faerazo/courses-and-certificates/blob/main/coursesbanner.png"/>
 </p>
 
 ## Introduction
