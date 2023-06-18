@@ -14,6 +14,7 @@ This repository lists all data science and programming courses that I've complet
 1. Programming in C# - DA204E
 
 ### Lund University - Department of Statistics and Department of Economics (60 ECTS)
+#### MSc Data Analytics and Business Economics
 1. Programming in R (3.5 ECTS)
 2. Machine Learning from a Regression Perspective (7.5 ECTS)
 3. Data Visualisation (4 ECTS)
