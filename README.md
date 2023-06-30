@@ -30,6 +30,8 @@ This repository lists all data science and programming courses that I've complet
 
 ### [Python for Machine Learning & Data Science Masterclass (44 hours)](https://github.com/faerazo/courses-and-certificates/blob/main/Python%20for%20Machine%20Learning%20and%20Data%20Science.pdf)
 
+### [Python for Data Science and Machine Learning Bootcamp (25 hours)](https://github.com/faerazo/courses-and-certificates/blob/main/Python%20for%20Data%20Science%20and%20Machine%20Learning%20Bootcamp.pdf)
+
 ## DataCamp
 ### [Career Track: Data Scientist with Python (96 hours)](https://github.com/faerazo/data-science-and-programming-courses/blob/44d109ae2e067e4252fe689979d2206ac4bee466/Data%20Scientist%20with%20Python.pdf)
 1. Introduction to Python
